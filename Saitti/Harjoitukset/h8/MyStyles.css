@@ -1,0 +1,9 @@
+﻿#theaterList {
+    float:left;
+    width: 200px;
+    height: 500px;
+}
+#movies {
+    float:left;
+    width: 800px;
+}
